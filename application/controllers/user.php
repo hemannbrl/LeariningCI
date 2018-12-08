@@ -10,6 +10,6 @@ class User extends CI_Controller {
 	}
 	
 	public function add() {
-		echo("av");;
+		echo("av");;;;;;;
 	}
 }
