@@ -10,9 +10,13 @@ class User extends CI_Controller {
 	}
 	
 	public function add() {
-
 		echo("av");
 		echo("tule pakhe ho ");
-
+	}
+	
+	
+	
+	public function dangercode() {
+		
 	}
 }
