@@ -8,4 +8,8 @@ class User extends CI_Controller {
 		
 		$this->load->view('public/articles_list');
 	}
+	
+	public function add() {
+		echo("av");;
+	}
 }
